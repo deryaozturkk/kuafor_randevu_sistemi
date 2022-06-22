@@ -41,7 +41,7 @@ p.min.js"></script>
       <li data-target="#" data-slide-to="2"></li>
     </ol>
 
-    <!-- Wrapper for slides -->
+    
     <div class="carousel-inner">
     <div class="item active">
         <img src="https://www.falconinterior.com/wp-content/uploads/2019/07/10000.jpg" alt="first photo" style="width:50%;">
@@ -56,7 +56,6 @@ p.min.js"></script>
       </div>
     </div>
 
-    <!-- Left and right controls -->
     <a class="left carousel-control" href="#dongu" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
