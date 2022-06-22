@@ -5,7 +5,7 @@
    
     extract($_POST); 
    
-    // sifre metni SHA256 ile şifreleniyor. 
+    
    
     $password = hash('sha256', $password); 
    
@@ -33,12 +33,12 @@
    
    ?> 
 <html>
-   <!-- türkçe karakter desteği ayarı --> 
+    
    <meta http-equiv="Content-Type" content="text/html;  
       charset=UTF-8" />
    <body>
       <?php 
-         //mesaj varsa ekrana yazdır. 
+         
          
          if (isset($mesaj)) echo $mesaj; ?> 
       <h2>Kayıt Formu</h2>
