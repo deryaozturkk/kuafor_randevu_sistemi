@@ -11,7 +11,7 @@ sitede yapabileceğiniz bazı işlemler:
 * Randevu bilgilerinize erişmek
 
 ---------------------------------
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 * HTML5
 * CSS
 * BOOTSRAP
